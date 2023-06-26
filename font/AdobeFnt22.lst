@@ -1,0 +1,107 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\client\NP18944_Sobi_EAHAD2022_Flyer_600x800 Folder\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1395737050
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Museo300-Regular
+FamilyName:Museo
+StyleName:300
+FullName:Museo 300 Regular
+MenuName:Museo 300
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\client\NP18944_Sobi_EAHAD2022_Flyer_600x800 Folder\Document fonts\Museo 300.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:127152
+FileModTime:1590654476
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Museo 300 Regular
+NameArray:0,Win,1,Museo 300
+NameArray:0,Win,16,Museo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Museo500-Regular
+FamilyName:Museo
+StyleName:500
+FullName:Museo 500 Regular
+MenuName:Museo 500
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\client\NP18944_Sobi_EAHAD2022_Flyer_600x800 Folder\Document fonts\Museo 500.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:128224
+FileModTime:1590570326
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Museo 500 Regular
+NameArray:0,Win,1,Museo 500
+NameArray:0,Win,16,Museo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Museo-700
+FamilyName:Museo
+StyleName:700
+FullName:Museo 700
+MenuName:Museo 700
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\client\NP18944_Sobi_EAHAD2022_Flyer_600x800 Folder\Document fonts\Museo 700.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:129080
+FileModTime:1590583324
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Museo 700
+NameArray:0,Win,1,Museo 700
+NameArray:0,Win,16,Museo
+%EndFont
+
